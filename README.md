@@ -46,7 +46,7 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Jayaram18&hide_title=true&hide_border=true&langs_count=3)
+[![Jayaram18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayaram18)](https://github.com/Jayaram18/Jayaram18)
 
 
 <p align="center"> 

@@ -1,4 +1,4 @@
-<h2 align="center">Hi there ! <img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="25px"> , I'm <a href="https://github.com/Jayaram18">Jayaram Singh</a></h2>
+<h2 align="center">Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/Jayaram18">Jayaram Singh</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaram-singh-b450751a8/">LinkedIn</a> •
   <a href="https://www.instagram.com/jayaram_18/">Instagram</a> •

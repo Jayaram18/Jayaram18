@@ -9,7 +9,7 @@
 
 **Brief introduction about Me:**
 
-- 📝  I'm a Technical Content Writer at GeeksForGeeks.
+- 📝  I'm a Software Engineer by Profession.
 - 😎  I've done some cool projects on Python.
 - 🌱  I'm currently learning JavaScript.
 - 📫  Reach me  at: jayaramsingh1999@gmail.com.

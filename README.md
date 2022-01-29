@@ -9,9 +9,9 @@
 
 **Brief introduction about Me:**
 
-- 📝  I'm a Software Engineer by Profession.
+- 📝  I'm a Software Engineer at Gigamon.
 - 😎  I've done some cool projects on Python.
-- 🌱  I'm currently learning JavaScript.
+- 🌱  I'm currently learning JavaScript, Cloud computing etc.
 - 📫  Reach me  at: jayaramsingh1999@gmail.com.
 
 ***

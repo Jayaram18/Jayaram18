@@ -9,7 +9,7 @@
 
 **Brief introduction about Me:**
 
-- 📝  I'm a Software Engineer 2 at Juniper Networks.
+- 📝  I'm working as a Software Engineer 2 at Juniper Networks.
 - 😎  I've done some cool projects on Python.
 - 🌱  I'm currently learning JavaScript, Cloud computing etc.
 - 📫  Reach me  at: jayaramsingh1999@gmail.com.
